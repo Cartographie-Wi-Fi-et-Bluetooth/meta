@@ -3,7 +3,7 @@
 ## Introduction
 
 ### Description
-Dans le cadre d'un projet scholaire en informatique à l'école Télécom SudParis, nous réaliserons une application mobile permettant la localisation d'appareil Wi-Fi et Bluetooth.
+Dans le cadre d'un projet scolaire en informatique à l'école Télécom SudParis, nous réaliserons une application mobile permettant la localisation d'appareil Wi-Fi et Bluetooth.
 
 ### Équipe
 * Augustin Bresset  
@@ -23,6 +23,7 @@ Trois pôles ont étaient retenues pour le développement de l'application :
 Création de la carte 
 * Leaflet
 * React
+* geodjango
 
 ### Application mobile
 Développement de l'application pour smartphone sous android.
