@@ -201,6 +201,7 @@ Les utilisateurs pourront filtrer les résultats en fonction de leur position, d
 #### Ajout de nouveaux points d'accès
 Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fournissant les informations pertinentes, telles que l'emplacement et la puissance du signal reçu.
 
+<img class="image" src="/Users/pierrechambet/Desktop/Screenshot 2023-02-24 at 21.25.46.png" />
 
 <div style="page-break-after: always;"></div>
 
