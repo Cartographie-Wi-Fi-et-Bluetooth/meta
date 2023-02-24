@@ -2,27 +2,25 @@
 
 ## Sommaire
 1. Introduction
-  1. Description
-  2. Équipe
-  2. Développement
+   1. Description
+   2. Équipe
+   2. Développement
 
 2. Analyse des besoins
-  1. Description du sujet et du contexte
-  2. Cahier des charges
-  3. Liste des fonctionnalités de l'application
+   1. Description du sujet et du contexte
+   2. Cahier des charges
+   3. Liste des fonctionnalités de l'application
 
 3. Plan de charge
-  1. Plan de charge
-  2. Suivi d'activités
-
+   1. Plan de charge
+   2. Suivi d'activités
 4.Planning prévisionnel
-
 5. Conception préliminaire
-  1. Première version du plan du rapport final
+   1. Première version du plan du rapport final
 
 6. Conclusion
-  1. Récapitulatif des résultats obtenus dans le livrable
-  2. Perspectives pour la suite du projet
+   1. Récapitulatif des résultats obtenus dans le livrable
+   2. Perspectives pour la suite du projet
 
 
 
@@ -134,7 +132,7 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 
 |                                                  	| Plan de charges prévisionnel |             	|                         	|                           	|            	|            	|
 |------------------------------------------------------|------------------------------|-----------------|-----------------------------|-------------------------------|----------------|----------------|
-|                                                  	|                          	|             	| Charge en heure/participant |                           	|            	|            	|
+|                                                  	|                          	|             	|                          |                           	|            	|            	|
 | Description de l'activité                        	| Charge en %              	| Charge en heure | Augustin BRESSET        	| Guillaume MACQUART DE TERLINE | Pierre CHAMBET | Zacharie MARCH |
 | Total                                            	| 100                      	| 200         	| 50                      	| 50                        	| 50         	| 50         	|
 | Gestion de projet                                	| 24                       	| 48          	| 12                      	| 12                        	| 12         	| 12         	|
