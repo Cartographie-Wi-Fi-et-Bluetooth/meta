@@ -1,36 +1,41 @@
-# Présentation du projet cartographie wifi et bluetooth
+# Livrable I : cartographie wifi et bluetooth
 
 ## Sommaire
 1. Introduction
+
    1. Description
    2. Équipe
-   2. Développement
+   3. Développement
 
 2. Analyse des besoins
-   1. Description du sujet et du contexte
-   2. Cahier des charges
-   3. Liste des fonctionnalités de l'application
+
+   1. Cahier des charges
+   2. Liste des fonctionnalités de l'application
 
 3. Plan de charge
+
    1. Plan de charge
    2. Suivi d'activités
-4.Planning prévisionnel
-5. Conception préliminaire
+   3. Planning prévisionnel
+
+4. Conception préliminaire
    1. Première version du plan du rapport final
 
-6. Conclusion
+5. Conclusion
    1. Récapitulatif des résultats obtenus dans le livrable
    2. Perspectives pour la suite du projet
 
 
 
-## Introduction
+## I Introduction
 
-### Description
-Dans le cadre d'un projet scolaire en informatique à l'école Télécom SudParis, nous réaliserons une application mobile permettant la localisation d'appareil Wi-Fi et Bluetooth.
+### 1. Description
 
-### Équipe
-* Augustin Bresset  
+Dans le cadre d'un projet scolaire en informatique à l'école Télécom SudParis, nous réaliserons une application mobile permettant la localisation d'appareils Wi-Fi et Bluetooth.
+
+### 2. Équipe
+
+* Augustin Bresset 
 * Pierre Chambet
 * Guillaume De Terline
 * Zacharie March
@@ -39,34 +44,39 @@ Dans le cadre d'un projet scolaire en informatique à l'école Télécom SudPari
 
 Rémy Grünblatt
 
-## Développement
+<div style="page-break-after: always;"></div>
+
+### 3. Développement
 
 Trois pôles ont étaient retenues pour le développement de l'application :
 
 #### Frontend
+
 Création de la carte
 * Leaflet
 * React
 * geodjango
 
 #### Application mobile
+
 Développement de l'application pour smartphone sous android.
 * Kotlin
 * Android Studio
 
 #### Backend
+
 Traitement des données, communication avec les serveurs.
 * Django (Python)
 
 #### Supplémentaires
+
+
 Déploiement des APIs à l'aide de REST.
 Développement de l'algorithme de géolocalisation.
 
-## Analyse des besoins
+## II Analyse des besoins
 
-### Description du sujet et du contexte
-
-### Cahier des charges
+### 1. Cahier des charges
 
 #### Backend
 
@@ -118,42 +128,47 @@ Réalisation d’une carte où sont pointés les localisations des appareils WIF
 
 * Éventuellement s’il nous reste du temps pointer la position de l’utilisateur en fonction de sa proximité aux différents points WIFI par triangulation.
 
-### Liste des fonctionnalités de l'application
+### 2. Liste des fonctionnalités de l'application
+
 #### Affichage des points d'accès sur une carte interactive
 Les points d'accès seront représentés par des marqueurs sur la carte et les utilisateurs pourront interagir avec eux en cliquant dessus.
+
 #### Filtrage des résultats
 Les utilisateurs pourront filtrer les résultats en fonction de leur position, de la puissance du signal reçu et d'autres critères pertinents.
-####Ajout de nouveaux points d'accès
+
+#### Ajout de nouveaux points d'accès
 Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fournissant les informations pertinentes, telles que l'emplacement et la puissance du signal reçu.
-####Bouton pour rafraîchir la page
 
-## Plan de charge
+<div style="page-break-after: always;"></div>
 
+## III Plan de charge
 
-|                                                  	| Plan de charges prévisionnel |             	|                         	|                           	|            	|            	|
+### 1. Plan de charge
+
+|Plan prévisionnel | ||||||
 |------------------------------------------------------|------------------------------|-----------------|-----------------------------|-------------------------------|----------------|----------------|
 |                                                  	|                          	|             	|                          |                           	|            	|            	|
-| Description de l'activité                        	| Charge en %              	| Charge en heure | Augustin BRESSET        	| Guillaume MACQUART DE TERLINE | Pierre CHAMBET | Zacharie MARCH |
-| Total                                            	| 100                      	| 200         	| 50                      	| 50                        	| 50         	| 50         	|
-| Gestion de projet                                	| 24                       	| 48          	| 12                      	| 12                        	| 12         	| 12         	|
-| Réunion de lancement                             	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
-| Planning prévisionnel et Suivi des activités     	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
-| Réunions de suivi                                	| 12                       	| 24          	| 6                       	| 6                         	| 6          	| 6          	|
-| Rédaction                                        	| 4                        	| 8           	| 2                       	| 2                         	| 2          	| 2          	|
-| Outil collaboratifs (Google drive, Github)       	| 4                        	| 8           	| 2                       	| 2                         	| 2          	| 2          	|
+| Description de l'activité                        	| Charge en %              	| Charge en heure | Augustin Bresset        	| Guillaume Macquart De Terline | Pierre Chambet    | Zacharie March |
+| *Total*                                            	| 100                      	| 200         	| 50                      	| 50                        	| 50         	    | 50         	|
+| **Gestion de projet**                                	| 24                       	| 48          	| 12                      	| 12                        	| 12         		| 12         	|
+| Réunion de lancement                             	| 2                        	| 4           	| 1                       	| 1                         	| 1          		| 1          	|
+| Planning prévisionnel et Suivi des activités     	| 2                        	| 4           	| 1                       	| 1                         	| 1          		| 1          	|
+| Réunions de suivi                                	| 12                       	| 24          	| 6                       	| 6                         	| 6          		| 6          	|
+| Rédaction                                        	| 4                        	| 8           	| 2                       	| 2                         	| 2          		| 2          	|
+| Outil collaboratifs (Google drive, Github)       	| 4                        	| 8           	| 2                       	| 2                         	| 2          		| 2          	|
 |                                                  	|                          	|             	|                         	|                           	|            	|            	|
-| Spécification                                    	| 4                        	| 8           	| 2                       	| 2                         	| 2          	| 2          	|
-| Définition des fonctionnalités                   	| 4                        	| 8           	| 2                       	| 2                         	| 2          	| 2          	|
+| **Spécification**                                    	| 4                        	| 8           	| 2                       	| 2                         	| 2          		| 2          	|
+| Définition des fonctionnalités                   	| 4                        	| 8           	| 2                       	| 2                         	| 2          		| 2          	|
 |                                                  	|                          	|             	|                         	|                           	|            	|            	|
-| Conception préliminaire                          	| 14                       	| 28          	| 7                       	| 7                         	| 7          	| 7          	|
-| Définition des données                           	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
-| Définition des formats des données               	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
-| Définition des modèles des données               	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
-| Définir les vues sur django                      	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
-| Créer des templates pour la présentation des données | 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
+| **Conception préliminaire**                          	| 14                       	| 28          	| 7                       	| 7                         	| 7          		| 7          	|
+| Définition des données                           	| 2                        	| 4           	| 1                       	| 1                         	| 1          		| 1          	|
+| Définition des formats des données               	| 2                        	| 4           	| 1                       	| 1                         	| 1          		| 1          	|
+| Définition des modèles des données               	| 2                        	| 4           	| 1                       	| 1                         	| 1          		| 1          	|
+| Définir les vues sur django                      	| 2                        	| 4           	| 1                       	| 1                         	| 1          		| 1          	|
+| Créer des templates pour la présentation des données | 2                        	| 4           	| 1                       	| 1                         		| 1          	| 1          	|
 | Mise en place des protocoles de triangulation    	| 4                        	| 8           	| 2                       	| 2                         	| 2          	| 2          	|
 |                                                  	|                          	|             	|                         	|                           	|            	|            	|
-| Conception détaillé                              	| 18                       	| 36          	| 9                       	| 9                         	| 9          	| 9          	|
+| **Conception détaillé**                              	| 18                       	| 36          	| 9                       	| 9                         	| 9          	| 9          	|
 | Auto-formation                                   	| 4                        	| 8           	| 2                       	| 2                         	| 2          	| 2          	|
 | Définition des classes (Kotlin, JavaScript)      	| 4                        	| 8           	| 2                       	| 2                         	| 2          	| 2          	|
 | Définition des clés étrangères (Django)          	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
@@ -161,10 +176,7 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 | Migration Django                                 	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
 | Configurer les URL                               	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
 |                                                  	|                          	|             	|                         	|                           	|            	|            	|
-|                                                  	|                          	|             	|                         	|                           	|            	|            	|
-|                                                  	|                          	|             	|                         	|                           	|            	|            	|
-|                                                  	|                          	|             	|                         	|                           	|            	|            	|
-| Codage                                           	| 24                       	| 48          	| 12                      	| 12                        	| 12         	| 12         	|
+| **Codage**                                           	| 24                       	| 48          	| 12                      	| 12                        	| 12         	| 12         	|
 | Codage des classes                               	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
 | Codage des clés étrangères                       	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
 | Codage des méthodes                              	| 8                        	| 16          	| 4                       	| 4                         	| 4          	| 4          	|
@@ -172,26 +184,25 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 | Codage de la carte avec la bibliothèque Leaflet  	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
 | Codage des tests unitaires                       	| 6                        	| 12          	| 3                       	| 3                         	| 3          	| 3          	|
 |                                                  	|                          	|             	|                         	|                           	|            	|            	|
-| Intégration                                      	| 8                        	| 16          	| 4                       	| 4                         	| 4          	| 4          	|
+| **Intégration**                                      	| 8                        	| 16          	| 4                       	| 4                         	| 4          	| 4          	|
 | Intégration des modules                          	| 4                        	| 8           	| 2                       	| 2                         	| 2          	| 2          	|
 | Test d'intégration                               	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
 | Test de l'application                            	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
 |                                                  	|                          	|             	|                         	|                           	|            	|            	|
-|                                                  	|                          	|             	|                         	|                           	|            	|            	|
-| Soutenance                                       	| 8                        	| 16          	| 4                       	| 4                         	| 4          	| 4          	|
+| **Soutenance**                                       	| 8                        	| 16          	| 4                       	| 4                         	| 4          	| 4          	|
 | Préparation de la soutenance                     	| 6                        	| 12          	| 3                       	| 3                         	| 3          	| 3          	|
 | Soutenance                                       	| 2                        	| 4           	| 1                       	| 1                         	| 1          	| 1          	|
 
+<div style="page-break-after: always;"></div>
 
-
-### Suivi des activités
+### 2. Suivi des activités
 
 |                                          	| Suivi d'activité |             	|                         	|                           	|            	|            	|
 |----------------------------------------------|------------------|-----------------|-----------------------------|-------------------------------|----------------|----------------|
-|                                          	|              	|             	| Charge en heure/participant |                           	|            	|            	|
-| Description de l'activité                	| Charge en %  	| Charge en heure | Augustin BRESSET        	| Guillaume MACQUART DE TERLINE | Pierre CHAMBET | Zacharie MARCH |
+|                                          	|              	|             	|            |                           	|            	|            	|
+| Description de l'activité                	| Charge en %  	| Charge en heure | Augustin Bresset        	| Guillaume MACQUART DE TERLINE | Pierre Chambet | Zacharie March |
 | Total                                    	|              	|             	|                         	|                           	|            	|            	|
-| Gestion de projet                        	| 10           	| 20          	| 6                       	| 6                         	| 6          	| 1          	|
+| **Gestion de projet**                        	| 10           	| 20          	| 6                       	| 6                         	| 6          	| 1          	|
 | Réunion de lancement                     	| 1,5          	| 3           	| 1                       	| 1                         	| 1          	| 0          	|
 | Planning prévisionnel et Suivi des activités | 2            	| 4           	| 1                       	| 1                         	| 2          	| 0          	|
 | Réunions de suivi                        	| 0            	| 0           	| 0                       	| 0                         	| 0          	| 0          	|
@@ -200,7 +211,7 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 
 
 
-##Planning prévisionnel
+### 3. Planning prévisionnel
 
 
 * 24/02 - 31/03 : Réalisation des conceptions préliminaires et détaillées. Auto-formations en Kotlin, Django et JavaScript
@@ -211,34 +222,34 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 
 * 30/05 - 31/05 : Soutenance
 
+<div style="page-break-after: always;"></div>
 
-
-## Conception préliminaire
+## IV Conception préliminaire
 
 ### Première version du plan du rapport final
 
 1. Introduction
 2. Cahier des charges
 3. Développement
-  1. Analyse du problème et spécification fonctionnelle
-  2. Conception préliminaire
-  3. Conception détaillée
-  4. Codage
-  5. Tests unitaires
-  6. Tests d'intégration
-  7. Tests de validation
+   1. Analyse du problème et spécification fonctionnelle
+   2. Conception préliminaire
+   3. Conception détaillée
+   4. Codage
+   5. Tests unitaires
+   6. Tests d'intégration
+   7. Tests de validation
 
 4. Etude des résultats
-  1. Réalisation des tests
-  2. Pertinence des résultats
-  3. Critique 
-  4. Suggestion d'Amélioration
+   1. Réalisation des tests
+   2. Pertinence des résultats
+   3. Critique 
+   4. Suggestion d'Amélioration
 
 5. Conclusion
 
-## Conclusion
+## V Conclusion
 
-### Récapitulatifs des résultats obtenus dans le livrable
+### 1. Récapitulatifs des résultats obtenus dans le livrable
 
 Nous faisons ici le constat de la charge de travail et sa répartition. Une idée plus concrète des étapes du projet s'est formée. 
 
@@ -247,12 +258,6 @@ La répartition du travail est présentée de manière uniforme mais nous savons
 Le temps d'apprentissage compris dans *auto-formation* est biaisé car répartie sur l'ensemble du projet.
 
 
-### Perspective pour la suite du projet
+### 2. Perspective pour la suite du projet
 
 Les prochaines étapes consistent en la mise en place de l'architecture de notre logiciel, la définition des objets employés et des structures de bases de données, une approche mathématique de triangulation pour estimer la localisation.
-
-
-
-
-
-
