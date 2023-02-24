@@ -68,7 +68,7 @@ Rémy Grünblatt
 ### 3. Développement
 
 
-Trois pôles ont étaient retenues pour le développement de l'application :
+Trois pôles ont été retenus pour le développement de l'application :
 
 
 #### Frontend
@@ -131,13 +131,13 @@ Développement de l'algorithme de géolocalisation.
 * Mettre en relation les classes avec les clés étrangères : Afin de pouvoir comparer et utiliser les deux sources d’informations (bluetooth/WIFI).
 
 
-* Traitement des données : Pour pouvoir employer les données, il faut tout d'abord les traiter dans un format adapté. Il nous faut également des méthodes de classe afin d’exploiter ces données. On peut alors effectuer des opérations, des calculs sur ces données.
+* Traitement des données : Pour pouvoir employer les données, il faut tout d'abord les traiter dans un format adapté. Il nous faut également des méthodes de classe afin d’exploiter ces données. On peut alors effectuer des opérations, des calculs sur ces données. C'est ici que se fera la partie mathémaqtiques du projet. Il s'agira de traduire les données recoltées pour en faire des informations utiles (distances, coordonnées...)
 
 
-* Modifier la base de données : Une fois les résultats obtenus, il faut effectuer une migration django afin de mettre à jour les modèles
+* Modifier la base de données : Une fois les résultats obtenus, il faut effectuer une migration django afin de mettre à jour les modèles. Cette mise à jour constituera les informations finales qui pourront alors être exploitées par la partie cartographie.
 
 
-* Envoyer les résultats : Une fois le traitement des données effectué, il faut les envoyer
+* Envoyer les résultats : Une fois le traitement des données effectué, il faut les publier afin de pouvoir afficher les points GPS sur la carte créée. Pour cela, on peut par exemple créer un fichier CSV à partir de la nouvelle base de données issue de la migration Django. On peut également déployer des APIs REST en utilisant Django REST Framework. Cette problématique représente un travail supplémentaire, à ne faire qu'une fois tous les points précédents effectués.
 
 
 
@@ -184,14 +184,14 @@ Réalisation d’une carte où sont pointés les localisations des appareils WIF
 * (Utilisation de la bibliothèque React pour créer une interface utilisateur interactive.)
 
 
-* Éventuellement s’il nous reste du temps pointer la position de l’utilisateur en fonction de sa proximité aux différents points WIFI par triangulation.
+* Éventuellement s’il nous reste du temps: pointer la position de l’utilisateur en fonction de sa proximité aux différents points WIFI par triangulation.
 
 
 ### 2. Liste des fonctionnalités de l'application
 
 
 #### Affichage des points d'accès sur une carte interactive
-Les points d'accès seront représentés par des marqueurs sur la carte et les utilisateurs pourront interagir avec eux en cliquant dessus.
+Les points d'accès seront représentés par des marqueurs sur la carte. Les points d'accès Bluetooth et WIFI seront differenciés par la couleurs des marqueurs. Les utilisateurs pourront interagir avec eux en cliquant dessus pour disposés des informations locales de chaque marqueur.
 
 
 #### Filtrage des résultats
@@ -337,10 +337,10 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 ### 1. Récapitulatifs des résultats obtenus dans le livrable
 
 
-Nous faisons ici le constat de la charge de travail et sa répartition. Une idée plus concrète des étapes du projet s'est formée. 
+Nous faisons ici le constat de la charge de travail et sa répartition. Une idée plus concrète des étapes du projet s'est formée. Nous avons alors esquissé un travail plus individuel à fournir, tout en restant à l'écoute des objectifs de chacun.
 
 
-La répartition du travail est présentée de manière uniforme mais nous savons que ce ne sera pas le cas pour les étapes de développement qui seront réparties par pôles.
+La répartition du travail est présentée de manière uniforme mais nous savons que ce ne sera pas le cas pour les étapes de développement qui seront réparties par pôles. En effet chacun se spécialisera sur sa partie, mais de nombreuses réunions inter-groupe permettront d'expliquer l'avancement du projet et les compétences developpées à chacun.
 
 
 Le temps d'apprentissage compris dans *auto-formation* est biaisé car répartie sur l'ensemble du projet.
@@ -351,7 +351,7 @@ Le temps d'apprentissage compris dans *auto-formation* est biaisé car répartie
 ### 2. Perspective pour la suite du projet
 
 
-Les prochaines étapes consistent en la mise en place de l'architecture de notre logiciel, la définition des objets employés et des structures de bases de données, une approche mathématique de triangulation pour estimer la localisation.
+Les prochaines étapes consistent en la mise en place de l'architecture de notre logiciel, le développement de l'application et la création de la carte, la définition des objets employés et des structures de bases de données, et une approche mathématique de triangulation pour estimer la localisation.
 
 
 
