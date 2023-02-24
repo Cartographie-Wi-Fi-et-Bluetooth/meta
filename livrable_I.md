@@ -19,15 +19,12 @@
 
 5. Conception préliminaire
   1. Première version du plan du rapport final
-  2. Étapes parcourues jusqu'à la conception préliminaire incluse
-  3. Éventuels problèmes rencontrés et solutions envisagées
-  4. Choix technologiques envisagés
 
 6. Conclusion
   1. Récapitulatif des résultats obtenus dans le livrable
   2. Perspectives pour la suite du projet
 
-7. Annexes
+
 
 ## Introduction
 
@@ -203,6 +200,58 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 | Rédaction                                	| 4,5          	| 8           	| 2                       	| 3                         	| 2          	| 0          	|
 | Outil collaboratifs (Google drive, Github)   | 2            	| 5           	| 2                       	| 1                         	| 1          	| 1          	|
 
+
+
+##Planning prévisionnel
+
+
+* 24/02 - 31/03 : Réalisation des conceptions préliminaires et détaillées. Auto-formations en Kotlin, Django et JavaScript
+
+* 31/03 - 17/05 : Réalisation du codage et des phases d’intégration. Validation du bon fonctionnement de l’application.
+
+* 17/05 - 30/05 : Préparation de la soutenance
+
+* 30/05 - 31/05 : Soutenance
+
+
+
+## Conception préliminaire
+
+### Première version du plan du rapport final
+
+1. Introduction
+2. Cahier des charges
+3. Développement
+  1. Analyse du problème et spécification fonctionnelle
+  2. Conception préliminaire
+  3. Conception détaillée
+  4. Codage
+  5. Tests unitaires
+  6. Tests d'intégration
+  7. Tests de validation
+
+4. Etude des résultats
+  1. Réalisation des tests
+  2. Pertinence des résultats
+  3. Critique 
+  4. Suggestion d'Amélioration
+
+5. Conclusion
+
+## Conclusion
+
+### Récapitulatifs des résultats obtenus dans le livrable
+
+Nous faisons ici le constat de la charge de travail et sa répartition. Une idée plus concrète des étapes du projet s'est formée. 
+
+La répartition du travail est présentée de manière uniforme mais nous savons que ce ne sera pas le cas pour les étapes de développement qui seront réparties par pôles.
+
+Le temps d'apprentissage compris dans *auto-formation* est biaisé car répartie sur l'ensemble du projet.
+
+
+### Perspective pour la suite du projet
+
+Les prochaines étapes consistent en la mise en place de l'architecture de notre logiciel, la définition des objets employés et des structures de bases de données, une approche mathématique de triangulation pour estimer la localisation.
 
 
 
