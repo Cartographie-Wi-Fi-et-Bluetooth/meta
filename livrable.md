@@ -34,17 +34,12 @@
    2. Perspectives pour la suite du projet
 
 
-
-
-
-
 ## I Introduction
-
 
 ### 1. Description
 
-
 Dans le cadre d'un projet scolaire en informatique à l'école Télécom SudParis, nous réaliserons une application mobile permettant la localisation d'appareils Wi-Fi et Bluetooth.
+Vous pouvez retrouver l'avancement de ce projet sur sa page [github](https://github.com/Cartographie-Wi-Fi-et-Bluetooth/).
 
 
 ### 2. Équipe
@@ -410,4 +405,9 @@ Faire ceci permettra éventuellement de localiser des accès selon la position d
 
 L'algorithme a été importé sur l'application django et une vue lui est dédié.
 Actuellement dans la database, il y a un ensemble de données tests qui y résident et montre le bon fonctionnement de l'algorithme ainsi que de la base de donnée.
+
+
+
+
+###### Annexe
 
