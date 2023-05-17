@@ -346,7 +346,7 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 5. Conclusion
 
 
-## V Conclusion
+## V Conclusion du livrable 1
 
 
 ### 1. Récapitulatifs des résultats obtenus dans le livrable
@@ -369,7 +369,32 @@ Le temps d'apprentissage compris dans *auto-formation* est biaisé car répartie
 Les prochaines étapes consistent en la mise en place de l'architecture de notre logiciel, le développement de l'application et la création de la carte, la définition des objets employés et des structures de bases de données, et une approche mathématique de triangulation pour estimer la localisation.
 
 
+### Livrable 3 
 
+Nous arrivons aux termes du livrable 3, faisons donc un point sur ce qui a été fait et ce qui reste à faire.
+
+### Kotlin | Leaflet
+
+Á l'aide d'android studio, une application a pu être produite, d'un autre côté une carte a réussi à être chargé. 
+Enfin les deux ont réussi à être réuni car la carte se charge bien sur le simulateur de l'application intégré à android studio.
+
+
+### Localisation
+
+Une librairie locolisation a été créée et publié sur testpypi.
+Elle permet de triangulariser et donc de localiser un point selon des sources qui en sont son intersections.
+
+Pour l'installer grâce à pip : 
+```bash
+pip install -i https://test.pypi.org/simple/ localisation
+```
+
+### Database Django
+
+Une database a été réalisé, composé seulement de deux tables, elle permet de décrire les signaux recu mais aussi son propre signal, c'est pourquoi la localisation du transmitter est dépendante du temps et donc inscrit sur chaque data.
+Faire ceci permettra éventuellement de localiser des accès selon la position de l'utilisateur.
+
+<img class="image" src="./resources/DatabaseDiagramm.png" />
 
 
 
