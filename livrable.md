@@ -267,7 +267,7 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 ### 2. Suivi des activités
 
 
-|                                          	| Suivi d'activité |             	|                         	|                           	|            	|            	|
+|                                          	  | Suivid'activité |             	|                         	|                           	|            	|            	|
 |----------------------------------------------|------------------|-----------------|-----------------------------|-------------------------------|----------------|----------------|
 |                                          	  |              	|             	|            |                           	|            	|            	|
 | Description de l'activité                	  | Charge en %  	| Charge en heure | Augustin Bresset | Guillaume MACQUART DE TERLINE | Pierre Chambet | Zacharie March |
@@ -278,7 +278,6 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 | Réunions de suivi                        	  | 0            	| 0           	| 0                  | 0                         	| 0          	| 0          	|
 | Rédaction                                	  | 4,5          	| 8           	| 2                  | 3                         	| 2          	| 0          	|
 | Outil collaboratifs (Google drive, Github)   | 2            	| 5           	| 2                  | 1                         	| 1          	| 1          	|
- 	|            	|
 | **Conception détaillé**                      | 18            | 36           | 13                 | 13                         	| 13          	| 9          	|
 | Auto-formation                               | 4             | 8           	| 10                 | 10                         	| 10          	| 2          	|
 | Définition des classes (Kotlin, JavaScript)  | 4             | 8           	| 0                  | 2                         	| 0          	| 2          	|
@@ -295,8 +294,6 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 | Codage de la carte avec la bibliothèque Leafl| 2             | 4           	| 0                  | 6                         	| 0          	| 1          	|
 | Codage des tests unitaires                   | 6             | 12          	| 2                  | 0                         	| 2          	| 3          	|
 |                                              |               |             	|                    |                           	|            	|            	|
-
-
 
 
 
