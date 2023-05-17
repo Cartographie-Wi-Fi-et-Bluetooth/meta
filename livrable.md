@@ -270,7 +270,7 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 |                                          	| Suivi d'activité |             	|                         	|                           	|            	|            	|
 |----------------------------------------------|------------------|-----------------|-----------------------------|-------------------------------|----------------|----------------|
 |                                          	  |              	|             	|            |                           	|            	|            	|
-| Description de l'activité                	  | Charge en %  	| Charge en heure | Augustin Bresset| Guillaume MACQUART DE TERLINE | Pierre Chambet | Zacharie March |
+| Description de l'activité                	  | Charge en %  	| Charge en heure | Augustin Bresset | Guillaume MACQUART DE TERLINE | Pierre Chambet | Zacharie March |
 | Total                                    	  |              	|             	|                    |                           	|            	|            	|
 | **Gestion de projet**                        | 10           	| 20          	| 6                  | 6                         	| 6          	| 1          	|
 | Réunion de lancement                     	  | 1,5          	| 3           	| 1                  | 1                         	| 1          	| 0          	|
