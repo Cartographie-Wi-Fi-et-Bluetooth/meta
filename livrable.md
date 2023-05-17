@@ -269,15 +269,32 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 
 |                                          	| Suivi d'activité |             	|                         	|                           	|            	|            	|
 |----------------------------------------------|------------------|-----------------|-----------------------------|-------------------------------|----------------|----------------|
-|                                          	|              	|             	|            |                           	|            	|            	|
-| Description de l'activité                	| Charge en %  	| Charge en heure | Augustin Bresset        	| Guillaume MACQUART DE TERLINE | Pierre Chambet | Zacharie March |
-| Total                                    	|              	|             	|                         	|                           	|            	|            	|
-| **Gestion de projet**                        	| 10           	| 20          	| 6                       	| 6                         	| 6          	| 1          	|
-| Réunion de lancement                     	| 1,5          	| 3           	| 1                       	| 1                         	| 1          	| 0          	|
-| Planning prévisionnel et Suivi des activités | 2            	| 4           	| 1                       	| 1                         	| 2          	| 0          	|
-| Réunions de suivi                        	| 0            	| 0           	| 0                       	| 0                         	| 0          	| 0          	|
-| Rédaction                                	| 4,5          	| 8           	| 2                       	| 3                         	| 2          	| 0          	|
-| Outil collaboratifs (Google drive, Github)   | 2            	| 5           	| 2                       	| 1                         	| 1          	| 1          	|
+|                                          	  |              	|             	|            |                           	|            	|            	|
+| Description de l'activité                	  | Charge en %  	| Charge en heure | Augustin Bresset| Guillaume MACQUART DE TERLINE | Pierre Chambet | Zacharie March |
+| Total                                    	  |              	|             	|                    |                           	|            	|            	|
+| **Gestion de projet**                        | 10           	| 20          	| 6                  | 6                         	| 6          	| 1          	|
+| Réunion de lancement                     	  | 1,5          	| 3           	| 1                  | 1                         	| 1          	| 0          	|
+| Planning prévisionnel et Suivi des activités | 2            	| 4           	| 1                  | 1                         	| 2          	| 0          	|
+| Réunions de suivi                        	  | 0            	| 0           	| 0                  | 0                         	| 0          	| 0          	|
+| Rédaction                                	  | 4,5          	| 8           	| 2                  | 3                         	| 2          	| 0          	|
+| Outil collaboratifs (Google drive, Github)   | 2            	| 5           	| 2                  | 1                         	| 1          	| 1          	|
+ 	|            	|
+| **Conception détaillé**                      | 18            | 36           | 13                 | 13                         	| 13          	| 9          	|
+| Auto-formation                               | 4             | 8           	| 10                 | 10                         	| 10          	| 2          	|
+| Définition des classes (Kotlin, JavaScript)  | 4             | 8           	| 0                  | 2                         	| 0          	| 2          	|
+| Définition des clés étrangères (Django)      | 2             | 4           	| 1                  | 0                         	| 1          	| 1          	|
+| Définition des méthodes (Kotlin, JavaScript) | 4             | 8           	| 0                  | 1                         	| 0          	| 2          	|
+| Migration Django                             | 2             | 4           	| 1                  | 0                         	| 1          	| 1          	|
+| Configurer les URL                           | 2             | 4           	| 1                  | 1                         	| 1          	| 1          	|
+|                                              |               |             	|                    |                           	|            	|            	|
+| **Codage**                                   | 24            | 48          	| 12                 | 12                        	| 12         	| 12         	|
+| Codage des classes                           | 2             | 4           	| 1                  | 1                         	| 3          	| 1          	|
+| Codage des clés étrangères                   | 2             | 4           	| 1                  | 1                         	| 1          	| 1          	|
+| Codage des méthodes                          | 8             | 16          	| 2                  | 4                         	| 4          	| 4          	|
+| Implémenter la triangulation                 | 4             | 8           	| 6                  | 0                         	| 2          	| 2          	|
+| Codage de la carte avec la bibliothèque Leafl| 2             | 4           	| 0                  | 6                         	| 0          	| 1          	|
+| Codage des tests unitaires                   | 6             | 12          	| 2                  | 0                         	| 2          	| 3          	|
+|                                              |               |             	|                    |                           	|            	|            	|
 
 
 
