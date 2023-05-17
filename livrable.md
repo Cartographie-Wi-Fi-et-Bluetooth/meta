@@ -214,23 +214,23 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 
 |Plan prévisionnel | ||||||
 |------------------------------------------------------|------------------------------|-----------------|-----------------------------|-------------------------------|----------------|----------------|
-|                                                  	|                          	|             	|                          |                           	|            	|            	|
-| Description de l'activité                        	| Charge en %              	| Charge en heure | Augustin Bresset        	| Guillaume Macquart De Terline | Pierre Chambet    | Zacharie March |
-| *Total*                                            	| 100                      	| 200         	| 50                      	| 50                        	| 50         	    | 50         	|
-| **Gestion de projet**                                	| 24                       	| 48          	| 12                      	| 12                        	| 12         		| 12         	|
-| Réunion de lancement                             	| 2                        	| 4           	| 1                       	| 1                         	| 1          		| 1          	|
-| Planning prévisionnel et Suivi des activités     	| 2                        	| 4           	| 1                       	| 1                         	| 1          		| 1          	|
-| Réunions de suivi                                	| 12                       	| 24          	| 6                       	| 6                         	| 6          		| 6          	|
-| Rédaction                                        	| 4                        	| 8           	| 2                       	| 2                         	| 2          		| 2          	|
-| Outil collaboratifs (Google drive, Github)       	| 4                        	| 8           	| 2                       	| 2                         	| 2          		| 2          	|
-|                                                  	|                          	|             	|                         	|                           	|            	|            	|
-| **Spécification**                                    	| 4                        	| 8           	| 2                       	| 2                         	| 2          		| 2          	|
-| Définition des fonctionnalités                   	| 4                        	| 8           	| 2                       	| 2                         	| 2          		| 2          	|
-|                                                  	|                          	|             	|                         	|                           	|            	|            	|
-| **Conception préliminaire**                          	| 14                       	| 28          	| 7                       	| 7                         	| 7          		| 7          	|
-| Définition des données                           	| 2                        	| 4           	| 1                       	| 1                         	| 1          		| 1          	|
-| Définition des formats des données               	| 2                        	| 4           	| 1                       	| 1                         	| 1          		| 1          	|
-| Définition des modèles des données               	| 2                        	| 4           	| 1                       	| 1                         	| 1          		| 1          	|
+|                                                     |             |             	  |                          |                           	|            	|            	|
+| Description de l'activité                           | Charge en % | Charge en heure | Augustin Bresset | Guillaume Macquart De Terline | Pierre Chambet | Zacharie March |
+| *Total*                                             | 100         | 200         	  | 50               | 50                        	| 50        | 50         	|
+| **Gestion de projet**                               | 24          | 48          	  | 12               | 12                        	| 12        | 12         	|
+| Réunion de lancement                                | 2           | 4           	  | 1                | 1                         	| 1         | 1          	|
+| Planning prévisionnel et Suivi des activités        | 2           | 4           	  | 1                | 1                         	| 1         | 1          	|
+| Réunions de suivi                                   | 12          | 24          	  | 6                | 6                         	| 6         | 6          	|
+| Rédaction                                           | 4           | 8           	  | 2                | 2                         	| 2         | 2          	|
+| Outil collaboratifs (Google drive, Github)          | 4           | 8           	  | 2                | 2                         	| 2         | 2          	|
+|                                                     |             |             	  |                  |                           	|           |          	   |
+| **Spécification**                                   | 4           | 8           	| 2               	| 2                         	| 2         | 2          	|
+| Définition des fonctionnalités                   	| 4           | 8           	| 2                       	| 2                         	| 2          		| 2          	|
+|                                                  	|             |             	|                         	|                           	|            	|            	|
+| **Conception préliminaire**                          	| 14          | 28          	| 7                       	| 7                         	| 7          		| 7          	|
+| Définition des données                           	| 2           | 4           	| 1                       	| 1                         	| 1          		| 1          	|
+| Définition des formats des données               	| 2           | 4           	| 1                       	| 1                         	| 1          		| 1          	|
+| Définition des modèles des données               	| 2           | 4           	| 1                       	| 1                         	| 1          		| 1          	|
 | Définir les vues sur django                      	| 2                        	| 4           	| 1                       	| 1                         	| 1          		| 1          	|
 | Créer des templates pour la présentation des données | 2                        	| 4           	| 1                       	| 1                         		| 1          	| 1          	|
 | Mise en place des protocoles de triangulation    	| 4                        	| 8           	| 2                       	| 2                         	| 2          	| 2          	|
@@ -271,29 +271,38 @@ Les utilisateurs pourront ajouter de nouveaux points d'accès à la carte en fou
 |----------------------------------------------|------------------|-----------------|-----------------------------|-------------------------------|----------------|----------------|
 |                                          	  |              	|             	|            |                           	|            	|            	|
 | Description de l'activité                	  | Charge en %  	| Charge en heure | Augustin Bresset | Guillaume MACQUART DE TERLINE | Pierre Chambet | Zacharie March |
-| Total                                    	  |              	|             	|                    |                           	|            	|            	|
-| **Gestion de projet**                        | 10           	| 20          	| 6                  | 6                         	| 6          	| 1          	|
+| Total                                    	  |              	| 133            	|                    |                           	|            	|            	|
+| **Gestion de projet**                        | 10           	| 19          	| 6                  | 6                         	| 6          	| 1          	|
 | Réunion de lancement                     	  | 1,5          	| 3           	| 1                  | 1                         	| 1          	| 0          	|
 | Planning prévisionnel et Suivi des activités | 2            	| 4           	| 1                  | 1                         	| 2          	| 0          	|
 | Réunions de suivi                        	  | 0            	| 0           	| 0                  | 0                         	| 0          	| 0          	|
 | Rédaction                                	  | 4,5          	| 8           	| 2                  | 3                         	| 2          	| 0          	|
 | Outil collaboratifs (Google drive, Github)   | 2            	| 5           	| 2                  | 1                         	| 1          	| 1          	|
-| **Conception détaillé**                      | 18            | 36           | 13                 | 13                         	| 13          	| 9          	|
-| Auto-formation                               | 4             | 8           	| 10                 | 10                         	| 10          	| 2          	|
-| Définition des classes (Kotlin, JavaScript)  | 4             | 8           	| 0                  | 2                         	| 0          	| 2          	|
-| Définition des clés étrangères (Django)      | 2             | 4           	| 1                  | 0                         	| 1          	| 1          	|
+|                                              |               |             	|                    |                           	|            	|            	|
+| **Conception détaillé**                      | 18            | 48           | 13                 | 13                         	| 13          	| 9          	|
+| Auto-formation                               | 4             | 32         	| 10                 | 10                         	| 10          	| 2          	|
+| Définition des classes (Kotlin, JavaScript)  | 4             | 6           	| 0                  | 4                         	| 0          	| 2          	|
+| Définition des models, vues (Django)         | 2             | 4           	| 2                  | 0                         	| 2          	| 1          	|
 | Définition des méthodes (Kotlin, JavaScript) | 4             | 8           	| 0                  | 1                         	| 0          	| 2          	|
 | Migration Django                             | 2             | 4           	| 1                  | 0                         	| 1          	| 1          	|
 | Configurer les URL                           | 2             | 4           	| 1                  | 1                         	| 1          	| 1          	|
 |                                              |               |             	|                    |                           	|            	|            	|
-| **Codage**                                   | 24            | 48          	| 12                 | 12                        	| 12         	| 12         	|
-| Codage des classes                           | 2             | 4           	| 1                  | 1                         	| 3          	| 1          	|
-| Codage des clés étrangères                   | 2             | 4           	| 1                  | 1                         	| 1          	| 1          	|
-| Codage des méthodes                          | 8             | 16          	| 2                  | 4                         	| 4          	| 4          	|
-| Implémenter la triangulation                 | 4             | 8           	| 6                  | 0                         	| 2          	| 2          	|
-| Codage de la carte avec la bibliothèque Leafl| 2             | 4           	| 0                  | 6                         	| 0          	| 1          	|
-| Codage des tests unitaires                   | 6             | 12          	| 2                  | 0                         	| 2          	| 3          	|
+| **Codage**                                   | 24            | 66          	| 18                 | 18                        	| 18         	| 12         	|
+| Codage des classes                           | 2             | 4           	| 2                  | 2                         	| 3          	| 1          	|
+| Codage des models/vues                       | 2             | 4           	| 2                  | 2                         	| 4          	| 1          	|
+| Codage des méthodes                          | 8             | 16          	| 2                  | 4                         	| 6          	| 4          	|
+| Implémenter la triangulation                 | 4             | 8           	| 8                  | 0                         	| 4          	| 2          	|
+| Codage de la carte avec la bibliothèque Leafl| 2             | 4           	| 0                  | 8                         	| 0          	| 1          	|
+| Codage des tests unitaires                   | 6             | 12          	| 4                  | 2                         	| 1          	| 3          	|
 |                                              |               |             	|                    |                           	|            	|            	|
+| **Intégration pas encore rempli**            | 8             | 0          	| 4                  | 4                         	| 4          	| 4          	|
+| Intégration des modules                      | 4             | 8           	| 2                  | 2                         	| 2          	| 2          	|
+| Test d'intégration                           | 2             | 4           	| 1                  | 1                         	| 1          	| 1          	|
+| Test de l'application                        | 2             | 4           	| 1                  | 1                         	| 1          	| 1          	|
+|                                              |               |             	|                    |                           	|              |            	|
+| **Soutenance pas encore rempli**             | 8             | 0          	| 4                  | 4                         	| 4          	| 4          	|
+| Préparation de la soutenance                 | 6             | 12          	| 3                  | 3                         	| 3          	| 3          	|
+| Soutenance                                   | 2             | 4           	| 1                  | 1                         	| 1          	| 1          	|
 
 
 
@@ -373,15 +382,15 @@ Les prochaines étapes consistent en la mise en place de l'architecture de notre
 
 Nous arrivons aux termes du livrable 3, faisons donc un point sur ce qui a été fait et ce qui reste à faire.
 
-### Kotlin | Leaflet
+##### Kotlin | Leaflet
 
 Á l'aide d'android studio, une application a pu être produite, d'un autre côté une carte a réussi à être chargé. 
 Enfin les deux ont réussi à être réuni car la carte se charge bien sur le simulateur de l'application intégré à android studio.
 
 
-### Localisation
+##### Localisation
 
-Une librairie locolisation a été créée et publié sur testpypi.
+Une librairie locolisation a été créée et publié sur [testpypi](https://test.pypi.org/project/localisation/).
 Elle permet de triangulariser et donc de localiser un point selon des sources qui en sont son intersections.
 
 Pour l'installer grâce à pip : 
@@ -389,7 +398,9 @@ Pour l'installer grâce à pip :
 pip install -i https://test.pypi.org/simple/ localisation
 ```
 
-### Database Django
+
+
+##### Database Django
 
 Une database a été réalisé, composé seulement de deux tables, elle permet de décrire les signaux recu mais aussi son propre signal, c'est pourquoi la localisation du transmitter est dépendante du temps et donc inscrit sur chaque data.
 Faire ceci permettra éventuellement de localiser des accès selon la position de l'utilisateur.
@@ -397,4 +408,6 @@ Faire ceci permettra éventuellement de localiser des accès selon la position d
 <img class="image" src="./resources/DatabaseDiagramm.png" />
 
 
+L'algorithme a été importé sur l'application django et une vue lui est dédié.
+Actuellement dans la database, il y a un ensemble de données tests qui y résident et montre le bon fonctionnement de l'algorithme ainsi que de la base de donnée.
 
